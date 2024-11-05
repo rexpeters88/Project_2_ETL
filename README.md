@@ -3,6 +3,6 @@
 
 Contributor: Philip Peters
 
-Primary Notebook Name: ETL_Mini_Project_starter_code.ipynb
-Postgres File Name: crowdfunding_db_schema.sql
-ERD: 
+1) Primary Notebook Name: ETL_Mini_Project_starter_code.ipynb
+2) Postgres File Name: crowdfunding_db_schema.sql
+3) ERD Image: ERD.pdf
