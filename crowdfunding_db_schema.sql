@@ -1,3 +1,8 @@
+-- Create the database
+CREATE DATABASE crowdfunding_db_2;
+
+-- Connect to database
+\c crowdfunding_db_2;
 
 CREATE TABLE "Contacts" (
     "contact_id" INTEGER NOT NULL PRIMARY KEY,
